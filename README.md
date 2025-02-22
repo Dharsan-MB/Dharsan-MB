@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharsan MB</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🤓 I’m currently working on **Movie Directory Application**
+- 🤓 I’m currently working on **Ecommerce Webpage**
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
